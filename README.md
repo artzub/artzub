@@ -4,9 +4,9 @@ Hi, there! 👋😊
 I believe that a professional programmer is, at heart, a polyglot. It’s not just about knowing a specific programming language; it’s about understanding the philosophy behind programming itself. To be a successful programmer, one needs an insatiable drive for self-improvement. It’s all about continuously learning and acquiring new skills to find the best solutions and dive deep into specialized areas when needed.<br><br>For me, programming is more than just a profession—it’s a passion. I’m fortunate that my work aligns with my hobbies, making it a source of genuine enjoyment. Outside of coding, I love listening to audiobooks, cycling, hiking, exploring English literature, and writing poetry. Recently, I’ve been focusing on data visualization, diving into the world of data collection, analysis, and presenting insights in captivating ways.
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=artzub&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=artzub&theme=github_dark_dimmed&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artzub&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=artzub&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=artzub&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artzub&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=artzub&icon=5&color=11)](https://visitcount.itsvg.in)
